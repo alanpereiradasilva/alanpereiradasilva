@@ -123,7 +123,7 @@ Comecei a me interessar por tecnologia e fiquei impressionado com as possibilida
 | Curso | Instituição | Certificado |
 |------|------|------|
 | JavaScript | Curso em Vídeo | [Ver](LINK) |
-| Python 1 | Curso em Vídeo | [Ver](https://drive.google.com/file/d/1hu3hgcrkcHeDvzC0vuqzHYrjpiBLdJkv/view?usp=drive_link) |
+| Python 1 | Curso em Vídeo | [Ver](https://drive.google.com/file/d/1hu3hgcrkcHeDvzC0vuqzHYrjpiBLdJkv/view?usp=sharing) |
 | HTML5 e CSS3 | Curso em Vídeo | [Ver](LINK) |
 | Git e GitHub | Curso em Vídeo | [Ver](LINK) |
 
