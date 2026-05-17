@@ -14,6 +14,13 @@ Comecei a me interessar por tecnologia e fiquei impressionado com as possibilida
             src="https://custom-icon-badges.demolab.com/github/followers/alanpereiradasilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/alanpereiradasilva?tab=following">
+    <img 
+        alt="Seguindo" 
+        title="Perfis que sigo" 
+        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=55960c&labelColor=488207&style=for-the-badge&label=Seguindo&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falanpereiradasilva&logo=github&logoColor=white"
+    />
+</a>
     <a href="https://github.com/alanpereiradasilva?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
