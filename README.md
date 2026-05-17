@@ -113,14 +113,10 @@ Comecei a me interessar por tecnologia e fiquei impressionado com as possibilida
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=alanpereiradasilva&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
+<div align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpereiradasilva&layout=compact&langs_count=7&theme=tokyonight"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanpereiradasilva&show_icons=true&theme=tokyonight&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanpereiradasilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+
+</div>
