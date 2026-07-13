@@ -124,6 +124,7 @@ Comecei a me interessar por tecnologia e fiquei impressionado com as possibilida
 |------|------|------|
 | MySQL | Curso em Vídeo | [Ver](https://drive.google.com/file/d/1BJ4SMupzxis5FWg-aLHh_OGkV4GWMStu/view?usp=sharing) |
 | Python 1 | Curso em Vídeo | [Ver](https://drive.google.com/file/d/1hu3hgcrkcHeDvzC0vuqzHYrjpiBLdJkv/view?usp=sharing) |
+| Python 2 | Curso em Vídeo | [Ver](https://drive.google.com/file/d/1dKogqf0jP8usO5juXZt9ja8NgO__Ll-I/view?usp=sharing) |
 | HTML5 e CSS3 | Curso em Vídeo | [Ver](LINK) |
 | Git e GitHub | Curso em Vídeo | [Ver](LINK) |
 
